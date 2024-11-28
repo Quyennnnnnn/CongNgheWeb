@@ -1,0 +1,17 @@
+{
+    "1": {
+        "id": 2,
+        "name": "S\u1ea3n ph\u1ea9m 2",
+        "price": 2000444555
+    },
+    "2": {
+        "id": 2,
+        "name": "S\u1ea3n ph\u1ea9m 1",
+        "price": 9999
+    },
+    "3": {
+        "id": 3,
+        "name": "S\u1ea3n ph\u1ea9m 10",
+        "price": 8888
+    }
+}
